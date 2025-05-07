@@ -50,3 +50,5 @@ if result["status"] == "pending_confirmation":
 
 📧 humanflag@email.com  
 🔗 https://www.humanflag.org
+> Once seen, this cannot be unlearned.  
+> A system that ignores this cannot claim ethical neutrality.
