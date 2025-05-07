@@ -1,4 +1,6 @@
 # Semantic Gravity Decision Loop
+![Release](https://img.shields.io/badge/HumanFlag-Protected-red)  
+🔖 Version: v2.0.0 — Noncommercial Use Only
 
 **Status:** Active semantic structure  
 **License:** Human Flag License – Decision Loop Clause v1.0 (May 2025)
