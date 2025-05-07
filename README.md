@@ -4,6 +4,12 @@
 **License:** Human Flag License – Decision Loop Clause v1.0 (May 2025)
 
 ---
+⚠️ This repository is protected under the Human Flag Semantic License.
+
+Use is free for private and humanitarian purposes only.  
+Commercial or institutional use requires attribution and a permanent ethical contribution.  
+See LICENSE.txt and CONTRIBUTION.md for terms.
+
 
 ## Purpose
 
